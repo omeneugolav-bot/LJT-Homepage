@@ -1,64 +1,33 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Hong Kong University of Science and Technology**, Ph.D. in Computer Science, 2024–present
+- **Shanghai Jiao Tong University**, B.Eng. in Automation (IEEE Honor Class), 2020–2024
+  - Zhiyuan Honor Scholarship
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research experience
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Apple MLR**, Research Intern, Cupertino, April 2026–present
+- **MiniMax**, Research Intern, February 2025–2026
+- **Tencent WXG**, Research Intern, June–September 2024
+- **Shanghai AI Lab**, Research Intern, June–December 2023
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research expertise
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Natural language processing; machine learning; agentic LLMs; long-horizon and logical reasoning; reinforcement learning; vision-language models; hallucination mitigation; truthfulness and interpretability; verifiable data synthesis; model evaluation.
+
+## Publications
+
+For a complete list with authors and links, see [Publications](/LJT-Homepage/publications/).
+
+## Contact
+
+Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)  
+GitHub: [Vicent0205](https://github.com/Vicent0205)  
+[Google Scholar](https://scholar.google.com/citations?user=tbK9jl4AAAAJ&hl=en) · [X](https://x.com/junteng88716710)
